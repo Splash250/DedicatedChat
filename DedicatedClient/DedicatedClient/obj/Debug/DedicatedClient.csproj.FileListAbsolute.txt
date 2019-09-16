@@ -1,0 +1,33 @@
+C:\Users\kemer\source\repos\DedicatedClient\DedicatedClient\bin\Debug\DedicatedClient.exe.config
+C:\Users\kemer\source\repos\DedicatedClient\DedicatedClient\bin\Debug\DedicatedClient.exe
+C:\Users\kemer\source\repos\DedicatedClient\DedicatedClient\bin\Debug\DedicatedClient.pdb
+C:\Users\kemer\source\repos\DedicatedClient\DedicatedClient\obj\Debug\DedicatedClient.csprojAssemblyReference.cache
+C:\Users\kemer\source\repos\DedicatedClient\DedicatedClient\obj\Debug\DedicatedClient.frmMessageClient.resources
+C:\Users\kemer\source\repos\DedicatedClient\DedicatedClient\obj\Debug\DedicatedClient.Properties.Resources.resources
+C:\Users\kemer\source\repos\DedicatedClient\DedicatedClient\obj\Debug\DedicatedClient.csproj.GenerateResource.cache
+C:\Users\kemer\source\repos\DedicatedClient\DedicatedClient\obj\Debug\DedicatedClient.csproj.CoreCompileInputs.cache
+C:\Users\kemer\source\repos\DedicatedClient\DedicatedClient\obj\Debug\DedicatedClient.exe
+C:\Users\kemer\source\repos\DedicatedClient\DedicatedClient\obj\Debug\DedicatedClient.pdb
+C:\Users\kemer\source\repos\DedicatedClient\DedicatedClient\obj\Debug\DedicatedClient.frmLogin.resources
+C:\Users\splash\source\repos\DedicatedClient 1.2\DedicatedClient\bin\Debug\DedicatedClient.exe.config
+C:\Users\splash\source\repos\DedicatedClient 1.2\DedicatedClient\bin\Debug\DedicatedClient.exe
+C:\Users\splash\source\repos\DedicatedClient 1.2\DedicatedClient\bin\Debug\DedicatedClient.pdb
+C:\Users\splash\source\repos\DedicatedClient 1.2\DedicatedClient\obj\Debug\DedicatedClient.csprojAssemblyReference.cache
+C:\Users\splash\source\repos\DedicatedClient 1.2\DedicatedClient\obj\Debug\DedicatedClient.frmMessageClient.resources
+C:\Users\splash\source\repos\DedicatedClient 1.2\DedicatedClient\obj\Debug\DedicatedClient.frmLogin.resources
+C:\Users\splash\source\repos\DedicatedClient 1.2\DedicatedClient\obj\Debug\DedicatedClient.Properties.Resources.resources
+C:\Users\splash\source\repos\DedicatedClient 1.2\DedicatedClient\obj\Debug\DedicatedClient.csproj.GenerateResource.cache
+C:\Users\splash\source\repos\DedicatedClient 1.2\DedicatedClient\obj\Debug\DedicatedClient.csproj.CoreCompileInputs.cache
+C:\Users\splash\source\repos\DedicatedClient 1.2\DedicatedClient\obj\Debug\DedicatedClient.exe
+C:\Users\splash\source\repos\DedicatedClient 1.2\DedicatedClient\obj\Debug\DedicatedClient.pdb
+C:\Users\Suli\Desktop\DedicatedChat_1.3\DedicatedClient 1.2\DedicatedClient\bin\Debug\DedicatedClient.exe.config
+C:\Users\Suli\Desktop\DedicatedChat_1.3\DedicatedClient 1.2\DedicatedClient\bin\Debug\DedicatedClient.exe
+C:\Users\Suli\Desktop\DedicatedChat_1.3\DedicatedClient 1.2\DedicatedClient\bin\Debug\DedicatedClient.pdb
+C:\Users\Suli\Desktop\DedicatedChat_1.3\DedicatedClient 1.2\DedicatedClient\obj\Debug\DedicatedClient.csprojAssemblyReference.cache
+C:\Users\Suli\Desktop\DedicatedChat_1.3\DedicatedClient 1.2\DedicatedClient\obj\Debug\DedicatedClient.frmMessageClient.resources
+C:\Users\Suli\Desktop\DedicatedChat_1.3\DedicatedClient 1.2\DedicatedClient\obj\Debug\DedicatedClient.frmLogin.resources
+C:\Users\Suli\Desktop\DedicatedChat_1.3\DedicatedClient 1.2\DedicatedClient\obj\Debug\DedicatedClient.Properties.Resources.resources
+C:\Users\Suli\Desktop\DedicatedChat_1.3\DedicatedClient 1.2\DedicatedClient\obj\Debug\DedicatedClient.csproj.GenerateResource.cache
+C:\Users\Suli\Desktop\DedicatedChat_1.3\DedicatedClient 1.2\DedicatedClient\obj\Debug\DedicatedClient.csproj.CoreCompileInputs.cache
+C:\Users\Suli\Desktop\DedicatedChat_1.3\DedicatedClient 1.2\DedicatedClient\obj\Debug\DedicatedClient.exe
+C:\Users\Suli\Desktop\DedicatedChat_1.3\DedicatedClient 1.2\DedicatedClient\obj\Debug\DedicatedClient.pdb

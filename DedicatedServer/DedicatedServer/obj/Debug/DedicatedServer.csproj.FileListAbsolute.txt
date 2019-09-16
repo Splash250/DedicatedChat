@@ -1,0 +1,21 @@
+C:\Users\kemer\source\repos\DedicatedServer\DedicatedServer\bin\Debug\DedicatedServer.exe.config
+C:\Users\kemer\source\repos\DedicatedServer\DedicatedServer\bin\Debug\DedicatedServer.exe
+C:\Users\kemer\source\repos\DedicatedServer\DedicatedServer\bin\Debug\DedicatedServer.pdb
+C:\Users\kemer\source\repos\DedicatedServer\DedicatedServer\obj\Debug\DedicatedServer.csprojAssemblyReference.cache
+C:\Users\kemer\source\repos\DedicatedServer\DedicatedServer\obj\Debug\DedicatedServer.csproj.CoreCompileInputs.cache
+C:\Users\kemer\source\repos\DedicatedServer\DedicatedServer\obj\Debug\DedicatedServer.exe
+C:\Users\kemer\source\repos\DedicatedServer\DedicatedServer\obj\Debug\DedicatedServer.pdb
+C:\Users\splash\source\repos\DedicatedServer 1.2\DedicatedServer\bin\Debug\DedicatedServer.exe.config
+C:\Users\splash\source\repos\DedicatedServer 1.2\DedicatedServer\bin\Debug\DedicatedServer.exe
+C:\Users\splash\source\repos\DedicatedServer 1.2\DedicatedServer\bin\Debug\DedicatedServer.pdb
+C:\Users\splash\source\repos\DedicatedServer 1.2\DedicatedServer\obj\Debug\DedicatedServer.csprojAssemblyReference.cache
+C:\Users\splash\source\repos\DedicatedServer 1.2\DedicatedServer\obj\Debug\DedicatedServer.csproj.CoreCompileInputs.cache
+C:\Users\splash\source\repos\DedicatedServer 1.2\DedicatedServer\obj\Debug\DedicatedServer.exe
+C:\Users\splash\source\repos\DedicatedServer 1.2\DedicatedServer\obj\Debug\DedicatedServer.pdb
+C:\Users\Suli\Desktop\DedicatedChat_1.3\DedicatedServer 1.2\DedicatedServer\bin\Debug\DedicatedServer.exe.config
+C:\Users\Suli\Desktop\DedicatedChat_1.3\DedicatedServer 1.2\DedicatedServer\bin\Debug\DedicatedServer.exe
+C:\Users\Suli\Desktop\DedicatedChat_1.3\DedicatedServer 1.2\DedicatedServer\bin\Debug\DedicatedServer.pdb
+C:\Users\Suli\Desktop\DedicatedChat_1.3\DedicatedServer 1.2\DedicatedServer\obj\Debug\DedicatedServer.csprojAssemblyReference.cache
+C:\Users\Suli\Desktop\DedicatedChat_1.3\DedicatedServer 1.2\DedicatedServer\obj\Debug\DedicatedServer.csproj.CoreCompileInputs.cache
+C:\Users\Suli\Desktop\DedicatedChat_1.3\DedicatedServer 1.2\DedicatedServer\obj\Debug\DedicatedServer.exe
+C:\Users\Suli\Desktop\DedicatedChat_1.3\DedicatedServer 1.2\DedicatedServer\obj\Debug\DedicatedServer.pdb
